@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Duck.cs" />
+    <Compile Include="DuckComparer.cs" />
+    <Compile Include="DuckComparerByKind.cs" />
+    <Compile Include="DuckComparerBySize.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
